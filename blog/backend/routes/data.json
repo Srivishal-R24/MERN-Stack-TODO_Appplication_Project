@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Introduction to  Node.js",
+        "content": "Node.js is a java script run time built on chrome",
+        "Category": "programming",
+        "author": "jane Doe",
+        "image":"https://via.placeholder.com/800*400.png?text=Introduction+to+Node.js",
+        "createdAt": "2024-07-15T10:00:00Z",
+        "updatedAt": "2024-07-15T10:00:00Z"
+    },
+    {
+        "title": "Getting Started with Express.js",
+    "content": "Express.js is a fast and minimal web framework for Node.js applications.",
+    "category": "Web Development",
+    "author": "John Smith",
+    "image": "https://via.placeholder.com/800x400.png?text=Getting+Started+with+Express.js",
+    "createdAt": "2024-07-16T09:30:00Z",
+    "updatedAt": "2024-07-16T09:30:00Z"
+
+    }
+]

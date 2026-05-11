@@ -1,4 +1,10 @@
-<img width="624" height="317" alt="image" src="https://github.com/user-attachments/assets/7ec4492b-0fa8-46e1-a7a1-2bcfa92b431f" />👋Hey,Come and lets see 😲 !!  In this project is a full-stack Todo Application developed using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). The application helps users manage daily tasks efficiently by allowing them to add, edit, update, and delete todos in real time. The frontend is built with React and Bootstrap for a responsive and user-friendly interface, while the backend uses Node.js, Express.js, and MongoDB for API handling and database management. This project demonstrates CRUD operations, REST API integration, state management using React Hooks, and MongoDB database connectivity.
+👋Hey,Come and lets see 😲 !!  In this project is a full-stack Todo Application developed using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). The application helps users manage daily tasks efficiently by allowing them to add, edit, update, and delete todos in real time. The frontend is built with React and Bootstrap for a responsive and user-friendly interface, while the backend uses Node.js, Express.js, and MongoDB for API handling and database management. This project demonstrates CRUD operations, REST API integration, state management using React Hooks, and MongoDB database connectivity.
+
+main page:
+
+<img width="1918" height="974" alt="image" src="https://github.com/user-attachments/assets/1a0cc58d-4974-4c94-b3ae-9a2de68c7c3f" />
+
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/b9975a1c-08cc-4ba0-b73c-fe7040a0f51b" />
 
 Languages: 
 <img width="1034" height="516" alt="image" src="https://github.com/user-attachments/assets/dc2a0db5-e1dc-432e-8d4c-aa153e660ecb" /> 
